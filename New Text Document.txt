@@ -2,4 +2,4 @@ apple
 orange
 mango
 banana
-chiku
+papaya
